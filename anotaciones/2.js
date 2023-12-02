@@ -1,4 +1,4 @@
-//Aqui van las anotaciones del vidio de js #2
+//Aquí van las anotaciones del vidio de js #2
 
 //Nota: Para ver los diferentes resultados, quite los comentarios (//) de las líneas que contienen alert() o document.write()
 
