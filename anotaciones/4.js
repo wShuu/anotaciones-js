@@ -77,4 +77,4 @@ let frase = `Características de mi actual PC: <br>
         La memoria ram es: <b>${ram}<b> <br>
         El espacio en disco es de: <b>${espacio}<b>`;
 
-console.log(frase);
+document.write(frase);
