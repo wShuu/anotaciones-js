@@ -1,7 +1,7 @@
 //Aquí van las anotaciones del vidio de js
 const prueba = 'hola mundo uwu < kz';
-alert(prueba);
- 
+console.log(prueba);
+
 //Variable
 //Se declara una variable llamada 'recipiente' y se le asigna el valor 'papel'
 recipiente = 'papel';
