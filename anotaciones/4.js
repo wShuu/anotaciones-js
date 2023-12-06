@@ -72,9 +72,9 @@ let procesador = pc["procesador"];
 let ram = pc["ram"];
 let espacio = pc["espacio"];
 
-let frase = `Características de mi actual PC: <br>
-        El procesador es: <b>${procesador}<b> <br>
-        La memoria ram es: <b>${ram}<b> <br>
-        El espacio en disco es de: <b>${espacio}<b>`;
+let frase = `Características de mi actual PC:
+        El procesador es: ${procesador}
+        La memoria ram es: ${ram}
+        El espacio en disco es de: ${espacio}`;
 
-document.write(frase);
+console.log(frase);
