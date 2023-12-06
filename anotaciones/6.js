@@ -1,4 +1,4 @@
-//Aquí van las anotaciones del vidio de js #6
+//Anotaciones JavaScript #6
 
 //Funciones
 //Las funciones son bloques fundamentales que permiten organizar y reutilizar código

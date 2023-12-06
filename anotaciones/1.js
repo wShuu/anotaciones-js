@@ -1,4 +1,4 @@
-//Aquí van las anotaciones del vidio de js
+//Anotaciones JavaScript #1
 const prueba = 'hola mundo uwu < kz';
 console.log(prueba);
 

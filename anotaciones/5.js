@@ -1,4 +1,4 @@
-//Aquí van las anotaciones del vidio de js #5
+//Anotaciones JavaScript #5
 
 //Bucles e iteración, definición:
 //Son estructuras que permiten ejecutar un bloque de código repetidamente hasta que se cumpla una condición específica

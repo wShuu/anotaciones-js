@@ -1,4 +1,4 @@
-//Aquí van las anotaciones del vidio de js #3
+//Anotaciones JavaScript #3
 
 //Operadores de comparación
 //Se utilizan para comparar dos valores y devolver un resultado booleano que indica si es verdadero o falso

@@ -1,4 +1,4 @@
-//Aquí van las anotaciones del vidio de js #4
+//Anotaciones JavaScript #4
 //Primer ejercicio para desarrollar la lógica
 //Simulación interactiva de compra de cartas 
 

@@ -1,4 +1,4 @@
-//Aquí van las anotaciones del vidio de js #2
+//Anotaciones JavaScript #2
 
 //Entrada de datos del usuario
 //Se utiliza la función `prompt` para solicitar al usuario que ingrese el nombre de su héroe favorito
