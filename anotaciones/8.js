@@ -42,7 +42,3 @@ let pajaro = new Animal("palomo", 2, "gris");
 perro.ladrar();
 gato.ladrar();
 pajaro.ladrar();
-
-
-
-
