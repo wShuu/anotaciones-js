@@ -1,3 +1,5 @@
+//Anotaciones JavaScript #10
+
 class App {
     constructor(descargas, puntuacion, peso){
         this.descargas = descargas;
