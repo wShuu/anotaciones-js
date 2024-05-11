@@ -1,45 +1,21 @@
-//Anotaciones JavaScript #1
-const prueba = 'hola mundo uwu < kz';
-console.log(prueba);
+//#¿Qué es JavaScript? 
+//#Es un lenguaje de programación. ¿Y que es un lenguaje de programación?. 
+//#Es una herramienta que nos permite dar instrucciones a una maquina para realizar cierta acción.
 
-//Variable
-//Se declara una variable llamada 'recipiente' y se le asigna el valor 'papel'
-recipiente = 'papel';
+//#Características y funciones de JavaScript.
+//#Es un lenguaje interpretado que se ejecuta paso a paso cuando se abre una página web, sin necesidad de compilar previamente.
+//#Es un lenguaje orientado a objetos que permite crear objetos con propiedades y comportamientos como las clases, herencias, polimorfismos y demás.
+//#Es un lenguaje imperativo que se enfoca en decirle a la computadora exactamente qué hacer paso por paso. 
+//#Es un lenguaje Case sensitive ya que es sensible a mayúsculas y minúsculas en los nombres de variables y funciones.
+//#Es un lenguaje de tipado débil por que el valor de las variables puede cambiar a lo largo del tiempo, y puede cambiar de tipo durante la ejecución del programa.
+//#Y es un lenguaje dinámico por que puedes modificar la estructura y el tipo de datos en el programa mientras se está ejecutando.
 
-//Tipos de datos
-//Se declaran variables con diferentes tipos de datos: string, number y boolean
-string = 'cadena de texto';
-//Nota: Aunque se ha declarado como número, '9' es un string
-number = '9';
-boolean = false;
+//#¿Para que se utiliza JavaScript?
+//#Se utiliza para hacer que las páginas web sean interactivas, validar formularios, desarrollar aplicaciones web complejas y también en el desarrollo de aplicaciones de servidor con Node.js. 
+//#Es esencial para mejorar la experiencia del usuario y añadir funcionalidades dinámicas a los sitios web.
 
-//Tres formas de declarar variables: var, let, const
-//Se introducen las tres palabras clave para declarar variables
-//Const se inicializa una sola vez y no puede cambiar su valor
-const nombre = 'Franck';
-
-//Let y Var se pueden inicializar, declarar y modificar
-let num1 = 10;
-num1 = 11;
-
-var num2 = 9;
-num2 = 13;
-
-//Varias maneras de declarar y asignar valores a variables utilizando Var y Let
-//Primera forma: Declarar y luego asignar valor
-let num3;
-num3 = 15;
-
-//Segunda forma: Declarar e inicializar en una sola línea
-let num4 = 20;
-
-//Diferentes maneras de declarar múltiples variables
-//Primera forma: Declarar cada variable en líneas separadas
-var num5 = 4;
-var num6 = 5;
-
-//Segunda forma: Declarar varias variables en una sola línea
-var num7 = 6, num8 = 7;
-
-//Declarar una variable con valor nulo
-let num9 = null;
+//#¿Cómo enlazamos JavaScript?
+//#Se puede enlazar de distintas formas tales como:
+//#En línea; Se incluye directamente en el HTML utilizando la etiqueta `<script>` dentro del archivo HTML.
+//#Como archivo externo con la extensión `.js` y luego enlazarlo en tu HTML utilizando la etiqueta `<script>` con el atributo `src` que apunta al archivo JavaScript.
+//#También puedes llamar a funciones JavaScript directamente desde eventos HTML, como hacer clic en un botón `onclick` por ejemplo.
